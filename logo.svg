@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+<circle cx="250" cy="250" r="244" fill="#fff8f1" stroke="#c98e91" stroke-width="6"/>
+<text x="250" y="285" text-anchor="middle" font-family="Georgia,serif" font-size="255" fill="#b96f77">F</text>
+<text x="250" y="285" text-anchor="middle" font-family="Georgia,serif" font-size="205" fill="#9c5962" opacity=".95">F</text>
+<path d="M254 270 C290 206 321 152 365 132 C363 174 331 216 254 270Z" fill="#f4c8c9" stroke="#a45f67" stroke-width="3"/>
+<path d="M254 270 C245 210 257 161 293 128 C313 170 292 223 254 270Z" fill="#f8dddd" stroke="#a45f67" stroke-width="3"/>
+<path d="M254 270 C232 303 226 327 218 350" fill="none" stroke="#a45f67" stroke-width="4"/>
+<text x="250" y="368" text-anchor="middle" font-family="Georgia,serif" font-size="61" letter-spacing="6" fill="#874c53">FERUZA</text>
+<path d="M85 391 H180 M320 391 H415" stroke="#c98e91" stroke-width="3"/>
+<text x="250" y="431" text-anchor="middle" font-family="Georgia,serif" font-size="31" letter-spacing="10" fill="#874c53">FLOWERS</text>
+<text x="250" y="474" text-anchor="middle" font-size="30" fill="#c98e91">♥</text>
+</svg>
